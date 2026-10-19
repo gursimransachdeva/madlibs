@@ -1,6 +1,8 @@
 # madlibs
 Group members:
-Advay Bansal,
-Bradley Zhong,
-Evan Spirin,
-Rithvik Jangam
+Advay Bansal
+Bradley Zhong
+Evan Spirin
+Ritvik Jangam
+Gursimran Sachdeva
+Sankarshana Sudeendra
