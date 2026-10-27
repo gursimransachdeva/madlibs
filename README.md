@@ -37,4 +37,7 @@ Mad Libs is a word-substitution game that allows users to enter words such as no
 - [ ] Complete documentation and submit the project.
 
 ## Screenshots
+<img width="898" height="361" alt="image" src="https://github.com/user-attachments/assets/959ec609-4e71-4205-a787-091813bad670" />
+<img width="896" height="280" alt="image" src="https://github.com/user-attachments/assets/e3235094-01ca-4cfb-9c2b-0008304b02c3" />
+
 
