@@ -12,12 +12,12 @@
 - Sankarshana Sudeendra - Worked on `madlib.txt`, added code comments, and helped with code organization.
 ## Project Milestones
 
-- [ ] Plan the program and divide responsibilities.
-- [ ] Develop individual Java components.
-- [ ] Integrate the components into the main program.
-- [ ] Test and debug the program.
-- [ ] Capture screenshots of program functionality.
-- [ ] Complete documentation and submit the project.
+- Created the Java files for the different parts of the program.
+- Developed the word picker and word selection classes.
+- Connected the individual files to the main program.
+- Tested the program and fixed errors.
+- Completed the Mad Libs stories and checked the output.
+- Documented the project and prepared it for submission.
 
 ## Screenshots
 <img width="898" height="361" alt="image" src="https://github.com/user-attachments/assets/959ec609-4e71-4205-a787-091813bad670" />
