@@ -2,8 +2,6 @@
 
 ## Group Members and Contributions
 
-# Mad Libs
-
 ## Group Members
 
 - Advay Bansal - Worked on `picker.java` and helped with `madlib.java`.
